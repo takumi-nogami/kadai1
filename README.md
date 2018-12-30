@@ -10,5 +10,5 @@
 ## LICENSE
 LICENSEはGNU General Public License v3.0
 
-## DEMONSTRATION
+## D
 ・https://youtu.be/nQrRRET0GYM
